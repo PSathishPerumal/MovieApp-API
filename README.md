@@ -1,4 +1,25 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/99a13465-63c8-404f-94dd-e6b026b89f9b)# React + Vite
+
+# 🎬 MovieApp
+
+A modern React-based movie application that fetches and displays movie data from an external API. Built with **React + Vite** for fast development and optimal performance.
+
+## 🚀 Features
+
+- 🔍 Search for movies by title
+- 🎥 Display movie posters, titles, ratings, and descriptions
+- 📱 Responsive design for mobile and desktop
+- ⚡ Powered by Vite for lightning-fast development
+- 🌐 Data fetched from a movie API (e.g., OMDb API or The Movie Database)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React + Vite
+- **Styling:** CSS / Tailwind / 
+- **API:** [TMDb API]
+- **Version Control:** Git & GitHub
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
